@@ -1,0 +1,21 @@
+# Editor temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Local credentials and machine-specific files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local editor state and caches
+/session/
+/sessions/
+/cache/
+/state/
+/data/
+/lazy/
+/mason/
